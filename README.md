@@ -12,9 +12,7 @@ The default [Sapper](https://github.com/sveltejs/sapper) template, available for
 
 ```bash
 # for Rollup
-npx degit "sveltejs/sapper-template#rollup" my-app
-# for webpack
-npx degit "sveltejs/sapper-template#webpack" my-app
+npx degit "jadbox/sapper-template#rollup-tailwind" sapper-tailwind
 ```
 
 
