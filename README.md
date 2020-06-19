@@ -1,4 +1,4 @@
-# rollup-tailwind-modern template
+# sapper-rollup-tailwind-modern template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
 
