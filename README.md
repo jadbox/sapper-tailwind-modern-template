@@ -1,8 +1,8 @@
-# sapper-rollup-tailwind-modern template
+# sapper-tailwind-modern template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
 
-This fork also includes Tailwind and running Prettier on commit.
+This fork also includes Tailwind and running Prettier on commit. Template also uses Tailwind's new builtin PurgeCSS.
 
 ## Getting started
 
