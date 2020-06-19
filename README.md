@@ -12,7 +12,7 @@ This fork also includes Tailwind and running Prettier on commit. Template also u
 
 ```bash
 # for Rollup
-npx degit "jadbox/sapper-template#rollup-tailwind" my-project-name
+npx degit "jadbox/sapper-template#rollup-tailwind-modern" my-project-name
 ```
 
 ### Using GitHub templates
