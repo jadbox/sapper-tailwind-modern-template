@@ -62,7 +62,7 @@ The [static](static) directory contains any static assets that should be availab
 In your [service-worker.js](src/service-worker.js) file, you can import these as `files` from the generated manifest...
 
 ```js
-import { files } from '@sapper/service-worker';
+import { files } from "@sapper/service-worker";
 ```
 
 ...so that you can cache them (though you can choose not to, for example if you don't want to cache very large files).

@@ -1,7 +1,3 @@
-<script>
-
-</script>
-
 <style>
   h1,
   figure,
@@ -32,8 +28,12 @@
   }
 </style>
 
+<script>
+
+</script>
+
 <svelte:head>
-<title>Sapper project template</title>
+  <title>Sapper project template</title>
 </svelte:head>
 
 <h1 class="text-gray-800 uppercase font-bold mb-4">Great success!</h1>
@@ -44,5 +44,7 @@
 </figure>
 
 <p>
-  <strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong>
+  <strong>
+    Try editing this file (src/routes/index.svelte) to test live reloading.
+  </strong>
 </p>
