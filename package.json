@@ -43,7 +43,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn pretty-quick --staged"
+      "pre-commit": "pretty-quick --staged"
     }
   }
 }
