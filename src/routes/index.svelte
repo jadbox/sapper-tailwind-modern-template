@@ -4,7 +4,7 @@
 		margin: 0 auto;
 	}
 
-	h1 {
+	h2 {
 		font-size: 2.8em;
 		text-transform: uppercase;
 		font-weight: 700;
@@ -12,12 +12,6 @@
 	}
 
 	figure {
-		margin: 0 0 1em 0;
-	}
-
-	img {
-		width: 100%;
-		max-width: 400px;
 		margin: 0 0 1em 0;
 	}
 
@@ -32,14 +26,17 @@
 	}
 </style>
 
+<script>
+</script>
+
 <svelte:head>
 	<title>Sapper project template</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1 class="text-gray-800 uppercase font-bold mb-4">Great success!</h1>
 
-<figure>
-	<img alt='Success Kid' src='successkid.jpg'>
+<figure class="items-center w-full">
+	<img class="max-w-xl m-auto w-4/5" alt='Success Kid' src='successkid.jpg'>
 	<figcaption>Have fun with Sapper!</figcaption>
 </figure>
 
